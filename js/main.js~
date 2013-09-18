@@ -1,0 +1,7 @@
+function bake(img)
+{
+    x = event.screenX;
+    y = event.screenY;
+    img.style.posTop = x;
+    img.style.posLeft = y;
+}

@@ -1,0 +1,10 @@
+#screen
+{
+    width: 1000px;
+    height: 1000px;
+    border: solid 1px #000000;
+}
+img
+{
+    position: absolute;
+}
