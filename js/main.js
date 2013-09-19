@@ -25,12 +25,3 @@ $(function ()
 	  });
       }
   });
-/*
-var cookieSize = 64;
-
-function bake()
-{
-    var x = event.x, y = event.y;
-    cookie.style.posTop = y - cookieSize/2;
-    cookie.style.posLeft = x - cookieSize/2;
-}*/
